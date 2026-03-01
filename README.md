@@ -51,7 +51,7 @@ The system is tested on multiple grid sizes:
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+
 
 📬 Contact
 Shaimaa Said Soltan  
